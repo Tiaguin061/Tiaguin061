@@ -42,6 +42,17 @@ products in the gaming niche with 11,000+ users and 20,000+ paid orders. Monorep
 Node/Express API, React/Vite dashboard and Next.js website; OpenPix, Stripe and PayPal
 flows; technical SEO that reached 30.4k organic clicks in 12 months.
 
+## Certifications & Badges
+
+View all my credentials on [Credly](https://www.credly.com/users/tiagogcastro).
+
+- **AWS Certified AI Practitioner** - Amazon Web Services Training and Certification ([view credential](https://www.credly.com/badges/f21d87ea-e9df-46b9-9d0b-938f728f79b6/public_url))
+- **AWS Serverless Demonstrated** - Amazon Web Services Training and Certification ([view badge](https://www.credly.com/badges/c12ab3fd-2e95-4f3e-b4db-9d1eb75be81d/public_url))
+
+## Professional Development
+
+- **Google Cloud: Get Certified program** - guided preparation program with instructor-led training and technical mentorship, joined September 11, 2026 ([learn more](https://developers.google.com/profile/badges/community/get-certified-26-edition-3?u=tiagogcastro&hl=pt-br))
+
 ## Portfolio
 
 Check out my portfolio site: [tiagogcastro.com.br](https://tiagogcastro.com.br) - websites, systems and digital products I build and evolve.
